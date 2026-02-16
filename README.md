@@ -65,3 +65,4 @@
 - 🤖 Run the largest Claude community in Latin America
 - 🏗️ Industrial engineer who learned to code at a bootcamp while working another job
 - ☕ Powered by Mexican coffee
+
