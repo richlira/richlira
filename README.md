@@ -24,7 +24,7 @@
 
 - **On-device AI for iOS** — Exploring Apple Intelligence, Foundation Models, and SpeechAnalyzer on iPhone 15 Pro+
 - **AI tools for LatAm** — Peso economy apps, Spanglish interfaces, WhatsApp companions, edge/offline-first AI
-- **Hackathon prototypes** — Claude's "4th tab" concepts: Advise, Guard, Think
+- **Hackathon prototypes** — Claude's "4th tab" concepts
 - **Community** — Organizing meetups, bridging Silicon Valley ↔ Latin American developer ecosystems
 
 ## Background
